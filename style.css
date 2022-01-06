@@ -106,7 +106,8 @@ h2{
 .stay-safe h2{
       font-size: 40px;
       text-align: left;
-      margin-top: 100px;
+      margin-top: 50px;
+      margin-bottom: 20px;
       
 }
 #build-corona h2{
@@ -115,6 +116,7 @@ h2{
 }
 footer{
       background-color: #0B0D17;
+      margin-top: 50px;
 }
 .footer-area{
       text-align: center;
