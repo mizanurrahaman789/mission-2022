@@ -107,8 +107,11 @@ h2{
       font-size: 40px;
       text-align: left;
       margin-top: 50px;
-      margin-bottom: 20px;
       
+      
+}
+.coronaviras-safe{
+      margin-left: 50px;
 }
 #build-corona h2{
       text-align: center;
