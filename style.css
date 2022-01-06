@@ -1,0 +1,133 @@
+body{
+      font-family: 'Poppins', sans-serif;
+      background-color: #ffffff;
+      margin: 0;
+}
+.top-banner{
+     display: flex;
+  
+}
+.cotainer{
+      width: 80%;
+      margin: auto;
+      margin-bottom: 20px;
+}
+h1{
+      font-size: 60px;
+      padding-left: 10px;
+      
+}
+h2{
+      font-size: 50px;
+      text-align: center;
+}
+
+.half-width img{
+      width: 80%; 
+}
+.person-img{
+      text-align: center;
+}
+.color-orange{
+      color: #FFAD5A;
+}
+.checkbox{
+      text-decoration: none;
+      background-color: #ff5959;
+      border-radius: 5px;
+      padding: 10px 40px;
+      color: #fff;
+}
+.border-area{
+      border-width: 5px;
+      border-left: 4px solid #ff5959;
+      box-shadow: #FFF4D6;
+}
+.first-banner{
+      margin-top: 130px;
+}
+
+.mission-area{
+      text-align: left;
+      margin: 10px;
+      
+      
+      
+      
+}
+.mission-area img{
+      width: 40%;
+      
+}
+
+.contain-1{
+      background-color: #EDF5F6;
+      padding: 20px;
+      border-radius: 20px;
+      
+      
+      
+}
+.contain-2{
+      background-color: #FFEEEE;
+      padding: 20px;
+      border-radius: 20px;
+
+}
+.contain-3{
+      background-color: #FFF4D6;
+      padding: 20px;
+      border-radius: 20px;
+
+}
+.develop-img img{
+      width: 80%;
+     
+}
+
+.devemop-text{
+      text-align: left;
+}
+.container-colum{
+      display: flex;
+      gap: 40px;
+}
+.devemop-text h3{
+      font-size: 40px;
+}
+.middle-area-first{
+      margin-top: 80px;
+
+}
+.middle-area-second{
+       margin-top: 100px;
+       margin-bottom: 100px;
+}
+.stay-safe h2{
+      font-size: 40px;
+      text-align: left;
+      margin-top: 100px;
+      
+}
+#build-corona h2{
+      text-align: center;
+      font-size: 40px;
+}
+footer{
+      background-color: #0B0D17;
+}
+.footer-area{
+      text-align: center;
+      color: #fff;
+      padding-top: 25px;
+      padding-bottom: 25px;
+      
+}
+.footer-area h3{
+      font-size: 25px;
+}
+#mission-final{
+      color: #FF5959;
+}
+
+
